@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import "fmt"
 
@@ -44,4 +44,4 @@ func copia() {
 	copia[0] = 999
 	fmt.Println(latenciaP)
 	fmt.Println(copia)
-}
+} */
