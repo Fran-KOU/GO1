@@ -57,7 +57,7 @@ Un sistema de votación recibió estos votos: Amber, Brian, Amber, Brian, Amber.
 Use: map[string]int, make, for…range y ++. */
 
 func votacionMapa () {
-	votos := []string{"Amber", "Bryan", "Amber", "Brian", "Amber"}
+	votos := []string{"Amber", "Brian", "Amber", "Brian", "Amber"}
 	conteo := make(map[string]int)
 
 	for _, v := range votos {
